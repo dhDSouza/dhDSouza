@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
   
+---
+  
 ![Snake animation](https://github.com/dhDSouza/dhDSouza/blob/output/github-contribution-grid-snake.svg)
 
 ## Liguagens de programação
