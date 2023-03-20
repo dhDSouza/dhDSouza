@@ -17,7 +17,7 @@
   
 ![Snake animation](https://github.com/dhDSouza/dhDSouza/blob/output/github-contribution-grid-snake.svg)
 
-## Liguagens de programação
+## Linguagens de programação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
