@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/dhDSouza">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
   
 ---
