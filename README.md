@@ -1,9 +1,9 @@
 # Olá, meu nome é Daniel!
-## Bem vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento para blockchain.
-- 🌱 Aprendendo sobre blockchain e computação em nuvem.
-- ⚡ Curiosidades: Sou apaixonado pela cultura Maker e tecnologias disruptivas, como Internet das Coisas.
+- 🔭 Atualmente sou professor de programação no Senac-RS, ministrando disciplinas de lógica de programação, front-end básico, e back-end com TypeScript.
+- 🌱 Estou aprendendo mais sobre inteligência artificial, machine learning, e computação em nuvem.
+- ⚡ Curiosidades: Sou apaixonado por jogos retrô e tecnologias disruptivas como Internet das Coisas e Blockchain.
 
 ## Meus stats
 
@@ -12,17 +12,15 @@
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
 </div>
-  
+
 ## Linguagens de programação
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40"/>
 </div>
 
 ## Tecnologias e ferramentas
@@ -36,16 +34,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>  
 </div>
-  
+
 ## Estou aprendendo 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </div>
-  
+
 ## Meus contatos:
 
 <div>
