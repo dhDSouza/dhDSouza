@@ -1,9 +1,9 @@
 # Olá, meu nome é Daniel!
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🎓 Sou graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Sou formado em Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Atualmente estou cursando Pós Graduação em Docência na Educação Profissional de Nível Técnico e Profissionalizante.
-- 💼 Atuo como professor de programação no Senac-RS, ministrando disciplinas de lógica de programação, front-end, e back-end.
+- 💼 Atuo como professor de programação no Senac-RS, ministrando disciplinas de lógica de programação, desenvolvimento front-end e desenvolvimento back-end.
 - 👨‍💻 Estou aprendendo mais sobre inteligência artificial, machine learning, e computação em nuvem.
 - 🎮 Curiosidades: Sou apaixonado por jogos retrô e tecnologias disruptivas como Internet das Coisas.
 
