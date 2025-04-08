@@ -1,21 +1,28 @@
-# Olá, meu nome é Daniel!
+# 👋 Olá, meu nome é Daniel!
+
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🎓 Sou formado em Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas.
-- 📚 Atualmente estou cursando Pós Graduação em Docência na Educação Profissional de Nível Técnico e Profissionalizante.
-- 💼 Atuo como professor de programação no Senac-RS, ministrando disciplinas de lógica de programação, desenvolvimento front-end e desenvolvimento back-end.
-- 👨‍💻 Estou aprendendo mais sobre inteligência artificial, machine learning, e computação em nuvem.
-- 🎮 Curiosidades: Sou apaixonado por jogos retrô e tecnologias disruptivas como Internet das Coisas.
+🎓 Iniciei minha jornada em 2014 e desde então atuo com desenvolvimento de sistemas e educação profissional.
+Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvimento de Sistemas, além de estar cursando uma Pós em Docência na Educação Profissional e Tecnológica.
 
-## 📊 Meus stats
+💼 Atualmente, sou docente de programação no Senac-RS, onde ensino disciplinas como lógica de programação, front-end, back-end e banco de dados.
 
-<div>
-  <a href="https://github.com/dhDSouza">
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
-</div>
+🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
 
-## Linguagens de programação
+🧠 Interesso-me por áreas como inteligência artificial, blockchain, internet das coisas e computação em nuvem.
+
+🎮 Apaixonado por jogos retrô, techs disruptivas e café (muito café ☕).
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/dhDSouza">
+  <div align=center>
+    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
+    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
+  </div>
+</a>
+
+## 💻 Linguagens de programação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
@@ -26,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" height="50" alt="Solidity"/>
 </div>
 
-## Bancos de dados
+## 🛢️ Bancos de dados
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
@@ -35,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
 </div>
 
-## Tecnologias e ferramentas
+## 🧰 Tecnologias e ferramentas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML 5"/>
@@ -47,7 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
 </div>
 
-## Meus contatos:
+## 📬 Onde me encontrar
+
+Se quiser trocar uma ideia sobre tecnologia, projetos, ensino ou até nostalgia gamer 😄, me chama.
 
 <div>
   <a href="https://instagram.com/_dhsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
