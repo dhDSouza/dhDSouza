@@ -2,10 +2,10 @@
 
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🎓 Iniciei minha jornada em 2014 e desde então atuo com desenvolvimento de sistemas e educação profissional.
-Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvimento de Sistemas, além de estar cursando uma Pós em Docência na Educação Profissional e Tecnológica.
+🎓 Iniciei minha jornada em 2013 e desde então atuo com desenvolvimento de sistemas e educação profissional.
+Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvimento de Sistemas, e possuo Especialização em Docência na Educação Profissional e Tecnológica.
 
-💼 Atualmente, sou docente de programação no Senac-RS, onde ensino disciplinas como lógica de programação, front-end, back-end e banco de dados.
+💼 Atualmente, sou docente do curso Técnico em Desenvolvimento de Sistemas no Senac-RS de São Leopoldo.
 
 🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
 
