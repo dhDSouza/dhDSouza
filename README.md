@@ -13,6 +13,9 @@ Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvim
 
 🎮 Apaixonado por jogos retrô, techs disruptivas e café (muito café ☕).
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/dhDSouza">
