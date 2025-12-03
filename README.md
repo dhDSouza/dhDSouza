@@ -13,6 +13,8 @@ Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvim
 
 🎮 Apaixonado por jogos retrô, techs disruptivas e café (muito café ☕).
 
+## 🏆 Minhas Badges
+
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/3e069668-d223-43b5-bd81-b6731659bbc2" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c9eae595-3706-42fa-bcef-156dfe1d238a" title="Python Essentials 1"><img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="80" height="80"></a>
