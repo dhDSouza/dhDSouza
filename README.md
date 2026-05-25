@@ -16,10 +16,10 @@ Sou formado como Técnico em Informática e Tecnólogo em Análise e Desenvolvim
 ## 🏆 Minhas Badges
 
 <!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3e069668-d223-43b5-bd81-b6731659bbc2)
 [![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/c9eae595-3706-42fa-bcef-156dfe1d238a)
 [![CCNA: Introduction to Networks](https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/ceddaac1-45bc-4628-937b-9a596768f34e)
 [![Introduction to IoT](https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/32e4e630-99e9-4b9e-aa05-44fe6cafe253)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3e069668-d223-43b5-bd81-b6731659bbc2)
 <!--END_SECTION:badges-->
 
 ## 📈 GitHub Stats
