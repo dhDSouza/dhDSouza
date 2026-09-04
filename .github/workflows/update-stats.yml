@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react
+          options: username=dhDSouza&show_icons=true&include_all_commits=true&theme=react
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN  }}
 
