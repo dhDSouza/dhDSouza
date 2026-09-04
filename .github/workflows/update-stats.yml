@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN  }}
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           options: username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN  }}
 
       - name: Commit updated cards
         run: |
